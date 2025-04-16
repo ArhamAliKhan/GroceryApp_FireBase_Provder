@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594448491470",
+    "project_id": "insta-firebase-new",
+    "storage_bucket": "insta-firebase-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594448491470:android:f46340b53ebd070196819f",
+        "android_client_info": {
+          "package_name": "com.example.grocery_firebase_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEQJ9NDoeDSXp7R811VpOPYkgQiyEVBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594448491470:android:65d60562ed2fc2ef96819f",
+        "android_client_info": {
+          "package_name": "com.example.insta_fireb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEQJ9NDoeDSXp7R811VpOPYkgQiyEVBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
